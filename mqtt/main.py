@@ -1,0 +1,2 @@
+import pubmqtt
+pubmqtt.main()
